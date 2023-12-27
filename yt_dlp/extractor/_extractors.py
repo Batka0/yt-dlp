@@ -2348,6 +2348,11 @@ from .xfileshare import XFileShareIE
 from .xhamster import (
     XHamsterIE,
     XHamsterEmbedIE,
+    XHamsterCategoryIE,
+    XHamsterChannelIE,
+    XHamsterCreatorIE,
+    XHamsterSearchIE,
+    XHamsterSearchKeyIE,
     XHamsterUserIE,
 )
 from .ximalaya import (
